@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_admin_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_perfil_admin.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_registro_denuncia_masc.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_registro_masc_encontrada.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_registro_masc_perdida.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/design_recycler_denuncia.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/design_recycler_evidencia_vet.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/design_recycler_mas_encontrada.xml" value="1.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/design_recycler_mas_perdida.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/design_recycler_masc_encontrada.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/design_recycler_publicacion_vet.xml" value="0.2" />
+        <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/desing_recycler_ayuda.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
