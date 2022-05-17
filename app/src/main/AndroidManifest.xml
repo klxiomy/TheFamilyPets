@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kristinxiomara.thefamilypets">
 
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,7 +19,7 @@
             android:name=".adapter.Registro_Masc_Perdida"
             android:exported="false" />
         <activity
-            android:name=".adapter.Registro_Masc_Encontrada"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".adapter.Registro_Denuncia_Masc"
@@ -76,7 +79,7 @@
             android:name=".ui.admin.AdminMenu"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".adapter.Registro_Masc_Encontrada"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
