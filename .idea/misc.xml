@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Aprendiz/AndroidStudioProjects/TheFamilyPets/app/src/main/res/drawable/edditradious.xml" value="0.325" />
+        <entry key="..\:/Users/Aprendiz/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_mascota_encontrada.xml" value="0.3671875" />
+        <entry key="..\:/Users/Aprendiz/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_mascota_perdida.xml" value="0.3671875" />
+        <entry key="..\:/Users/Aprendiz/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_registro_masc_perdida.xml" value="0.3671875" />
+        <entry key="..\:/Users/Aprendiz/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/design_recycler_mas_perdida.xml" value="0.3671875" />
         <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_admin_menu.xml" value="0.2" />
         <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_perfil_admin.xml" value="0.2" />
         <entry key="..\:/Users/Bienvenido/AndroidStudioProjects/TheFamilyPets/app/src/main/res/layout/activity_registro_denuncia_masc.xml" value="0.2" />
