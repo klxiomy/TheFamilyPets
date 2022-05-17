@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TheFamilyPets">
         <activity
-            android:name=".ui.Splash"
+            android:name=".adapter.AyudaMascota"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".adapter.Registro_Masc_Perdida"
@@ -28,7 +31,7 @@
             android:name=".ui.PerfilUsuario"
             android:exported="false" />
         <activity
-            android:name=".ui.Menu"
+            android:name=".ui.Splash"
             android:exported="false" />
         <activity
             android:name=".adapter.MascotaPerdida"
@@ -76,7 +79,7 @@
             android:name=".ui.admin.AdminMenu"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.Menu"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
