@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185104681815",
+    "firebase_url": "https://thefamilypets2-default-rtdb.firebaseio.com",
+    "project_id": "thefamilypets2",
+    "storage_bucket": "thefamilypets2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185104681815:android:734c3da2d776725fb80c12",
+        "android_client_info": {
+          "package_name": "com.kristinxiomara.thefamilypets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185104681815-d4g98mm9jd5limkes3a4q31rhsnkeho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuCrj1r4jR0eUeowxINFohieYztwru90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185104681815-d4g98mm9jd5limkes3a4q31rhsnkeho9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

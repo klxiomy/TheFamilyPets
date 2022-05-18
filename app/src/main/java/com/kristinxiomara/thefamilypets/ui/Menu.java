@@ -9,6 +9,7 @@ import android.view.View;
 
 import com.kristinxiomara.thefamilypets.R;
 import com.kristinxiomara.thefamilypets.adapter.AyudaMascota;
+import com.kristinxiomara.thefamilypets.adapter.AyudaVet;
 import com.kristinxiomara.thefamilypets.adapter.DenunciaMascota;
 import com.kristinxiomara.thefamilypets.adapter.MascotaEncontrada;
 import com.kristinxiomara.thefamilypets.adapter.MascotaPerdida;
@@ -46,7 +47,7 @@ public class Menu extends AppCompatActivity {
         card_ayuda.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Menu.this, AyudaMascota.class);
+                Intent intent = new Intent(Menu.this, AyudaVet.class);
                 startActivity(intent);
             }
         });
