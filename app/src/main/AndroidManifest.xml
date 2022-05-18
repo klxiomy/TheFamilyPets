@@ -3,6 +3,8 @@
     package="com.kristinxiomara.thefamilypets">
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -19,12 +21,11 @@
         <activity
             android:name=".adapter.Registro_Masc_Perdida"
             android:exported="false"/>
-        <activity
-            android:name=".adapter.Registro_Masc_Encontrada"
-            android:exported="false" />
+
         <!--<activity
             android:name=".MainActivity"
             android:exported="false" />-->
+
         <activity
             android:name=".adapter.Registro_Ayuda_Masc"
             android:exported="false" />
@@ -79,9 +80,6 @@
         <activity
             android:name=".ui.admin.AdminMenu"
             android:exported="false" />
-
-        <!--            android:name=".adapter.Registro_Denuncia_Masc"
--->
         <activity
             android:name=".ui.Menu"
             android:exported="true">
@@ -91,6 +89,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <!--            android:name=".adapter.Registro_Denuncia_Masc"
+-->
+        <activity
+            android:name=".adapter.Registro_Masc_Encontrada"
+            android:exported="true"/>
     </application>
 
 </manifest>
